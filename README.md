@@ -8,5 +8,5 @@ iniciamos um novo site para sua empresa de jiu-jisu, depois de três preparando 
 
 <summary>
 protótipo </suummary>
-<a target="_blank" rel="noopener noreferrer nofollow" href="[https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png](https://avnerpelc.github.io/strength-and-honor.github.io/)"><img src="https://i.imgur.com/8X7eaZB.jpeg
+<a target="_blank" rel="noopener noreferrer nofollow" href="[https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png](https://avnerpelc.github.io/strength-and-honor.github.io/)"><img src="//.image
 " style="max-width: 100%;"></a>
