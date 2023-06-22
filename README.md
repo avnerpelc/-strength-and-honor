@@ -4,7 +4,7 @@ Um parágrafo da descrição do projeto vai aqui
 
 🚀 Começando
 Conversando com representante da Strength And Honor, Leo Rainho.
-iniciamos um novo site para sua empresa de jiu-jisu, depois de três preparando todo briefing, iniciamos. 
+iniciamos um novo site para sua empresa de jiu-jisu, depois de três meses preparando todo briefing, iniciamos. 
 
 <summary>
 protótipo </suummary>
